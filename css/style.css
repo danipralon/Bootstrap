@@ -1,0 +1,31 @@
+.navbar{
+	background-color: #ccc5ff; 
+}
+
+body{
+	background-color: #fff;
+	text-align: center;
+	font: 20px Arial, sans-serif;
+	color: #343c00;
+}
+section{
+	padding-top: 50px; 
+	padding-bottom: 50px;
+}
+
+footer{
+	padding-top: 30px; 
+	padding-bottom: 30px;
+	background-color: #ccc5ff;
+	text-align: center;
+	font: 20px Arial, sans-serif;
+	color: #8979ff;
+}
+
+#parceiros{
+	background-color:#c5ffd3;
+}
+
+#servicos{
+	background-color:#ffc9c5; 
+}
